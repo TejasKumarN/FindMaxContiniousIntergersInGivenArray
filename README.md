@@ -1,0 +1,2 @@
+# FindMaxContiniousIntergersInGivenArray
+Find longest continuous integers length
